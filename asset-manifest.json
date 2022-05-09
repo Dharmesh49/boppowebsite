@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boppowebsite/static/css/main.fc69e234.css",
+    "main.js": "/boppowebsite/static/js/main.528299fc.js",
+    "index.html": "/boppowebsite/index.html",
+    "main.fc69e234.css.map": "/boppowebsite/static/css/main.fc69e234.css.map",
+    "main.528299fc.js.map": "/boppowebsite/static/js/main.528299fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc69e234.css",
+    "static/js/main.528299fc.js"
+  ]
+}
